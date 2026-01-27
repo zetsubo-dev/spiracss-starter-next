@@ -15,8 +15,8 @@
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
-    "@spiracss/html-cli": "^0.3.2",
-    "@spiracss/stylelint-plugin": "^0.3.2",
+    "@spiracss/html-cli": "^0.3.3",
+    "@spiracss/stylelint-plugin": "^0.3.3",
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
     "postcss": "^8.4.49",
